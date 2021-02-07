@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0%;
+}
+.controller img{
+    height: 80px;
+    
+}
+
+.ship{
+    position: relative;
+    top:40px;
+    left:50px;
+    height: 100px;
+    width: 188px;
+}
+.displayship{
+    display:inline-block;
+    background-image: url(assets/GettyImages-1211293811.jpg);
+    height: 75vh;
+}
+
+.controller{
+    height: 40vh;
+}
+
+.sizing{
+    height: 20vh;
+}
+
+.visibility{
+    height: 20vh;
+}
+
+.arrow-up{
+    width: 105px;
+    margin: 20px;
+}
